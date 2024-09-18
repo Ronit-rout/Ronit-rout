@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ronit-rout
+- 👋 Hi, I’m Ronit rout 
 - 👀 I’m interested in learning various technologies and creating new projects.
 - 🌱 I’m currently learning Web dev and Java 
 - 💞️ I’m looking to collaborate on ...
