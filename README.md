@@ -19,17 +19,37 @@
 
 ---
 
-### 🚀 About Me
+### 🚀 A Bit About Me
 
-- 🔭 Staff Software Engineer at **Rage Labs**, working across client-facing product builds, internal tooling, and technical documentation
-- 🎓 Computer Science undergraduate at **SOA ITER, Bhubaneswar**
-- 🌱 Currently sharpening skills in **Web Development** and **Java**
-- 🤖 Keen interest in **Machine Learning, emerging tech, and Agentic AI** — love exploring how autonomous systems and LLMs can power real products
-- 🌐 Enjoy building **domain-based apps** — from automotive marketplaces to EdTech platforms to transit systems — each with its own quirks and challenges
-- 👀 Genuinely curious about new technologies — always tinkering with a side project
-- 💞️ Open to collaborating on interesting web dev / full-stack / AI-driven ideas
-- 📫 Reach me at **ronitrishirout@outlook.com** or on [LinkedIn](https://www.linkedin.com/in/ronit-rishi-rout/)
-- ⚡ Fun fact: I like turning small ideas into fully polished, pixel-perfect experiences
+```
+class Ronit:
+    def __init__(self):
+        self.role       = "Staff Software Engineer @ Rage Labs"
+        self.education  = "CS Undergrad, SOA ITER, Bhubaneswar"
+        self.currently_learning = ["Web Dev", "Java"]
+        self.obsessed_with = ["Machine Learning", "Agentic AI", "LLMs"]
+        self.loves      = "turning ideas into pixel-perfect, working products"
+
+    def what_i_do(self):
+        return "Build full-stack products, ship internal tools, write the docs nobody wants to but someone has to 😄"
+
+    def what_gets_me_excited(self):
+        return "Domain-based apps — automotive marketplaces, EdTech, transit systems — every industry is a new puzzle 🧩"
+
+me = Ronit()
+```
+
+🔭 By day, I'm building client-facing products and internal tooling at **Rage Labs**
+🎓 By degree, I'm a CS undergrad at **SOA ITER, Bhubaneswar**
+🌱 Right now, I'm deep in **Web Dev** and **Java**, with one eye always on the next shiny thing
+🤖 My real obsession though? **ML, Agentic AI, and LLMs** — I could talk about autonomous agents for hours
+🌐 I love jumping between **domains** — one week it's an automotive marketplace, the next it's an EdTech platform or a transit tracker — different problems, same thrill
+💞️ Always up for collaborating on something ambitious — web dev, full-stack, or AI-flavored
+⚡ Fun fact: I'd rather spend an extra hour polishing a UI than ship something "good enough"
+
+<p align="center">
+  📫 <a href="mailto:ronitrishirout@outlook.com">ronitrishirout@outlook.com</a> &nbsp;•&nbsp; 🔗 <a href="https://www.linkedin.com/in/ronit-rishi-rout/">Let's connect on LinkedIn</a>
+</p>
 
 ---
 
