@@ -33,10 +33,37 @@
 
 ---
 
+### 🧠 Machine Learning • Deep Learning • Agentic AI
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=2,6,14,20&height=150&section=header&text=Machine%20Learning%20%E2%80%A2%20Deep%20Learning%20%E2%80%A2%20Agentic%20AI&fontSize=28&fontColor=ffffff&animation=twinkling&fontAlignY=55" />
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=900&color=6C63FF&center=true&vCenter=true&width=650&lines=Machine+Learning+...;Deep+Learning+...;Neural+Networks+...;Natural+Language+Processing+...;Computer+Vision+...;Agentic+AI+%26+LLM+Workflows+...;Reinforcement+Learning+...;Generative+AI+...;Always+exploring+the+next+frontier+..." alt="ML/AI Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9OXcVfw2s3z/giphy.gif" width="320" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Machine%20Learning-6C63FF?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Deep%20Learning-FF6F61?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Agentic%20AI-2E9EF7?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/LLMs-10A37F?style=for-the-badge&logo=openai&logoColor=white" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Neural%20Networks-F7931E?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/NLP-8E44AD?style=for-the-badge&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Computer%20Vision-1ABC9C?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/Generative%20AI-E91E63?style=for-the-badge&logo=databricks&logoColor=white" />
+</p>
+
+---
+
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,ts,react,nodejs,spring,html,css,git,github,figma,vscode,py,tensorflow" />
+  <img src="https://skillicons.dev/icons?i=java,js,ts,react,nodejs,spring,html,css,git,github,figma,vscode,py,tensorflow,pytorch,opencv" />
 </p>
 
 ---
