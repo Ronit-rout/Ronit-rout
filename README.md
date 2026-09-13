@@ -155,6 +155,14 @@ Different domain. Different challenge. Same excitement.
 <img src="https://img.shields.io/badge/LLMs-10A37F?style=for-the-badge&amp;logo=openai&amp;logoColor=white"/>
 <img src="https://img.shields.io/badge/Agentic%20AI-2E9EF7?style=for-the-badge&amp;logo=openai&amp;logoColor=white"/>
 
+<br><br>
+
+<img src="assets/neural-network.svg" width="100%"/>
+
+<br><br>
+
+<img src="assets/brain-to-computer.svg" width="100%"/>
+
 </div>
 
 ### 🔬 What fascinates me
